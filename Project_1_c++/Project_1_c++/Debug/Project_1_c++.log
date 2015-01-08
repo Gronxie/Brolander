@@ -1,0 +1,17 @@
+﻿Build started 2015-01-08 11:03:02.
+     1>Project "C:\Users\h971217lubr\Desktop\Brolander\Project_1_c++\Project_1_c++\Project_1_c++.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\h971217lubr\Desktop\Brolander\Project_1_c++\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Project_1_c++.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Project_1_c++.exe.embed.manifest.res" Debug\Project_1_c++_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\h971217lubr\Desktop\Brolander\Project_1_c++\Debug\Project_1_c++.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Project_1_c++.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\h971217lubr\Desktop\Brolander\Project_1_c++\Debug\Project_1_c++.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\h971217lubr\Desktop\Brolander\Project_1_c++\Debug\Project_1_c++.lib" /MACHINE:X86 Debug\Project_1_c++.exe.embed.manifest.res
+     1>LINK : error LNK2001: unresolved external symbol _mainCRTStartup
+     1>C:\Users\h971217lubr\Desktop\Brolander\Project_1_c++\Debug\Project_1_c++.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\h971217lubr\Desktop\Brolander\Project_1_c++\Project_1_c++\Project_1_c++.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.01
